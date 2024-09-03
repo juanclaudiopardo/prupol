@@ -1,6 +1,6 @@
 'use client';
 
-import cogImage from '@/public/obelisco.jpg';
+import cogImage from '@/public/obelisco.webp';
 import Image from 'next/image';
 
 export const Services = () => {

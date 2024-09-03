@@ -4,7 +4,7 @@ export const Hero = () => {
   return (
     <section
       id='#'
-      className='relative h-screen bg-[url("/obelisco.jpg")] bg-cover bg-center bg-no-repeat flex items-center justify-center'
+      className='relative h-screen bg-[url("/obelisco.webp")] bg-cover bg-center bg-no-repeat flex items-center justify-center'
     >
       <div className='absolute inset-0 bg-black opacity-50'></div>
       <div className='relative z-10 container mx-auto px-4 text-center'>
